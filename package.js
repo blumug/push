@@ -16,7 +16,7 @@ Cordova.depends({
   // Fix android build with gradle
   'com.phonegap.plugins.PushPlugin': 'https://github.com/blumug/PushPlugin/tarball/8a0a495a82e6bf56182800966c45a7a1091ac3e6'
   // Fix ios 7 and ios in general
-  'com.phonegap.plugins.PushPlugin': 'https://github.com/raix/PushPlugin/tarball/c4e3aa69c66bde45472e81ac303a9e39020c9cc7'
+  // 'com.phonegap.plugins.PushPlugin': 'https://github.com/raix/PushPlugin/tarball/c4e3aa69c66bde45472e81ac303a9e39020c9cc7'
   // Fix issue 365 ios 7 missing badge updates
   // 'com.phonegap.plugins.PushPlugin': 'https://github.com/raix/PushPlugin/tarball/ff4ade868488ef0fcb014da652681011cd95d8ea'
   // 'com.clone.phonegap.plugins.pushplugin': '2.4.1' //with #354 fixed OK
